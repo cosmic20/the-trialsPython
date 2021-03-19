@@ -3,7 +3,7 @@ Project Name: The Trials
 Description: 
     This is a dungeon style game where each room has enemies,
     and to pass each level, you must kill all the enemies in it and reach the end piece.
-    For more details watch the video at [](https://youtu.be/LcZs7p_QpYI)
+    For more details watch the video at https://youtu.be/LcZs7p_QpYI
 
 How To Run:
     1. Pip Install pillow and requests
